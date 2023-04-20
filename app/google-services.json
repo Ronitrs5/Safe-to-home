@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "444561630344",
+    "project_id": "safe-tohome",
+    "storage_bucket": "safe-tohome.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444561630344:android:e37e381e041fcb512beb3d",
+        "android_client_info": {
+          "package_name": "com.example.safetohome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444561630344-ta2pqcf5ooud357qi7opac5gfd0i2oal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkHsm_qArw1GP45Ss6GMIdwm_R9sEaqsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444561630344-ta2pqcf5ooud357qi7opac5gfd0i2oal.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

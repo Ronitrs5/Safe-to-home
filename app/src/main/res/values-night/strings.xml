@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="details">1.Enter contacts that you would want to call immediately after any incident/accident.\n\n2.Give the permissions so that calls are placed without any interruption.\n\n3.You can update the contacts at any given time.</string>
+</resources>
